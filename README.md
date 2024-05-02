@@ -1,7 +1,7 @@
 # Impacta - Projeto 02
 
 ## CMA - Clínica Multidisciplinar para Autismo
->> Projeto desenvolvido ao longo da segunda semana de treinamento da Impacta promovido pela Avanade.
+> Projeto desenvolvido ao longo da segunda semana de treinamento da Impacta promovido pela Avanade.
 
 ### Requisitos:
 <ul>
@@ -16,7 +16,7 @@
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/html.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Microsoftsqlserver.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/dotnet.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Azure-Dark.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Bootstrap.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/SQLServer.png"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/dotnet.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Azure-Dark.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Bootstrap.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
 
 ## Autora:
 <table>
