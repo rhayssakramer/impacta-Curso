@@ -4,13 +4,10 @@
 > Projeto desenvolvido ao longo da segunda semana de treinamento da Impacta promovido pela Avanade.
 
 ### Requisitos:
-<ul>
-<li><p>Criar no Azure - Devops um lista BASIC sobre o projeto abaixo;</p></li>  
-<li><p> Criar um banco de dados com o nome de bdCurso com duas tabelas (tblAluno - Tbl Curso) insert de dois registros;</p></li>
-<li><p>Criar um MVC chamado Solução: ControleCurso e dois controllers - Aluno e Curso;</p></li>
-<li><p>Criar botões nas Views e um formulário de Cadastro;</p></li>
-</ul>
-<br>
+- Criar no Azure - Devops um lista BASIC sobre o projeto abaixo;
+- Criar um banco de dados com o nome de bdCurso com duas tabelas (tblAluno - Tbl Curso) insert de dois registros;
+- Criar um MVC chamado Solução: ControleCurso e dois controllers - Aluno e Curso;
+- Criar botões nas Views e um formulário de Cadastro.
 
 ## Tecnologias Utilizadas
 
