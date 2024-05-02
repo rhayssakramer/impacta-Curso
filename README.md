@@ -4,16 +4,16 @@
 > Projeto desenvolvido ao longo da segunda semana de treinamento da Impacta promovido pela Avanade.
 
 ### Requisitos:
-- Criar no Azure - Devops um lista BASIC sobre o projeto abaixo;
-- Criar um banco de dados com o nome de bdCurso com duas tabelas (tblAluno - Tbl Curso) insert de dois registros;
-- Criar um MVC chamado Solução: ControleCurso e dois controllers - Aluno e Curso;
-- Criar botões nas Views e um formulário de Cadastro.
-
+- [x] Criar no Azure - Devops um lista BASIC sobre o projeto abaixo;
+- [x] Criar um banco de dados com o nome de bdCurso com duas tabelas (tblAluno - Tbl Curso) insert de dois registros;
+- [x] Criar um MVC chamado Solução: ControleCurso e dois controllers - Aluno e Curso;
+- [x] Criar botões nas Views e um formulário de Cadastro.
+ 
 ## Tecnologias Utilizadas
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/SQLSever-Dark.png"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/dotnet.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Azure-Dark.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Bootstrap.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VisualStudio.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Git.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Github-Dark.svg">
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/SQLSever-Dark.png"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/dotnet.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Azure-Dark.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Bootstrap.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VisualStudio-Dark.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Git.svg"> <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Github-Dark.svg">
 
 ## Autora:
 <table>
